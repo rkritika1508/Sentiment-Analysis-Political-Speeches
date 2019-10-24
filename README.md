@@ -3,4 +3,4 @@ This project is an initiative to better understand the political speeches and pa
 
 We have created a dataset of all the parliamentary debates, speeches and discussions from 1998 to 2019. 
 
-We are trying to better understand the attitude of both NDA and UPA towards various issues that the country faces and the responses of the ministers towards them.
+We are trying to better understand the attitude of both NDA and UPA towards various issues that the country faces and the responses of the ministers and the authorities towards them.
